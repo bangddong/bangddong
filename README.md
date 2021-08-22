@@ -1,13 +1,11 @@
 - 👋 <b>안녕하세요! 저는 2년차 자바 개발자 방동현이라고 합니다! </b>
-- <b>Hi there! I'm hani!</b>
+- <b>Hi there! I'm BD!</b>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangddong)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 📫 hanix_x@naver.com
-- :computer: https://hanix-x.tistory.com/
-- 💻 https://johyewon.github.io/
-- 📄 https://www.notion.so/Hello-Hani-bc73f5169f1a48bf9df08ddbd53ae286
+- 📫 dhbang@kakao.com
+- 📄 https://carnation-foxglove-d82.notion.site/Hello-BD-4b8f963c19df41fc99d42eaa0b9fb6d7
 
 <!---
 johyewon/johyewon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
