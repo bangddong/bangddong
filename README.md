@@ -1,4 +1,4 @@
-- 👋 <b>안녕하세요! 저는 안드로이드 개발자 조혜원이라고 합니다! </b>
+- 👋 <b>안녕하세요! 저는 2년차 자바 개발자 방동현이라고 합니다! </b>
 - <b>Hi there! I'm hani!</b>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangddong)](https://github.com/anuraghazra/github-readme-stats)
