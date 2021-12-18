@@ -6,7 +6,7 @@
 
 - 📫 dhbang@kakao.com
 - 📄 https://carnation-foxglove-d82.notion.site/Hello-BD-4b8f963c19df41fc99d42eaa0b9fb6d7
-- 📄 https://https://dhbang.tistory.com/
+- 📄 https://dhbang.tistory.com/
 
 <!---
 johyewon/johyewon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
