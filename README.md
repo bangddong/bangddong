@@ -5,7 +5,6 @@
 
 
 - 📫 dhbang@kakao.com
-- 📄 https://carnation-foxglove-d82.notion.site/Hello-BD-4b8f963c19df41fc99d42eaa0b9fb6d7
 - 📄 https://dhbang.tistory.com/
 
 <!---
