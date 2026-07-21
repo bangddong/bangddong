@@ -26,6 +26,14 @@ Contributor to **[AgentsView](https://github.com/kenn-io/agentsview)** — AI �
 
 </div>
 
+## 🧩 Algorithm
+
+<div align="center">
+
+[![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=gusehdqkd)](https://solved.ac/profile/gusehdqkd)
+
+</div>
+
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->- [세션이 조용히 사라졌다 — 날짜 버그 하나로 시작된 첫 오픈소스 기여](https://dhbang.co.kr/posts/study/first-open-source-contribution/) <!-- Tue Jul 21 2026 12:00 AM -->
