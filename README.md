@@ -12,6 +12,7 @@ Java/Spring 기반 백엔드 개발자 **방동현** 입니다.
 ## 🌱 Open Source
 
 Contributor to **[AgentsView](https://github.com/kenn-io/agentsview)** — AI 코딩 에이전트 로컬 분석 도구 ⭐4.5k
+- 세션 날짜 경계가 잘못 저장되던 버그 수정 ([#1194](https://github.com/kenn-io/agentsview/pull/1194), merged)
 - 프론트엔드 테스트를 로케일 독립적으로 개선 ([#1196](https://github.com/kenn-io/agentsview/pull/1196), merged)
 
 ## 📊 GitHub Stats
