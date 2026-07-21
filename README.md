@@ -18,8 +18,8 @@ Contributor to **[AgentsView](https://github.com/kenn-io/agentsview)** â€” AI ì½
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bangddong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangddong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats-pi-dusky-96.vercel.app/api?username=bangddong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-pi-dusky-96.vercel.app/api/top-langs/?username=bangddong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bangddong&theme=tokyonight&hide_border=true" />
 
