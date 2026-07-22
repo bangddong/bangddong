@@ -1,9 +1,3 @@
-<div align="center">
-
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=540&lines=Java+%2F+Spring+Backend+Developer;Digging+into+Claude+Code+%26+AI+Agents;Writing+what+I+learn+at+dhbang.co.kr)
-
-</div>
-
 ## 👋 안녕하세요
 
 Java/Spring 기반 백엔드 개발자 **방동현** 입니다.
