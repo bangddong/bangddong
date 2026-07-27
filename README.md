@@ -29,11 +29,11 @@ Contributor to **[AgentsView](https://github.com/kenn-io/agentsview)** — AI �
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [세션이 조용히 사라졌다 — 날짜 버그 하나로 시작된 첫 오픈소스 기여](https://dhbang.co.kr/posts/study/first-open-source-contribution/) <!-- Tue Jul 21 2026 12:00 AM -->
+<!-- BLOG-POST-LIST:START -->- [첫 출력은 초안이다. Reflection, 에이전트가 자기 답을 다시 쓰게 만드는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/reflection/) <!-- Mon Jul 27 2026 12:00 AM -->
+- [세션이 조용히 사라졌다 — 날짜 버그 하나로 시작된 첫 오픈소스 기여](https://dhbang.co.kr/posts/study/first-open-source-contribution/) <!-- Tue Jul 21 2026 12:00 AM -->
 - [기다림은 합산된다 — Parallelization, 독립 작업을 동시에 달리게 하는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/parallelization/) <!-- Mon Jul 20 2026 12:00 AM -->
 - [체인은 갈림길을 모른다 — Routing, 에이전트가 스스로 경로를 고르는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/routing/) <!-- Wed Jul 15 2026 12:00 AM -->
 - [AI에게 답 대신 질문을 시켜라 — Finding Your Unknowns 정리](https://dhbang.co.kr/posts/study/finding-your-unknowns/) <!-- Wed Jul 08 2026 12:00 AM -->
-- [한 번에 다 시키면 왜 무너지는가 — Prompt Chaining, 모든 에이전트 패턴의 출발점](https://dhbang.co.kr/posts/study/agentic-design-patterns/prompt-chaining/) <!-- Mon Jul 06 2026 12:00 AM -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [dhbang.co.kr](https://dhbang.co.kr) 에서 더 보기
