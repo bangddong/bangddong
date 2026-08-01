@@ -2,12 +2,6 @@ AI 에이전트 Harness를 탐구하는 백엔드 개발자 **방동현**입니�
 
 "**왜 이렇게 동작하는가**"를 끝까지 파고드는 걸 좋아합니다. 최근엔 AI 에이전트와 **Claude Code 하네스**의 내부 구조에 빠져, 배운 것을 블로그와 오픈소스 기여로 풀어내고 있습니다.
 
-## 🌱 Open Source
-
-Contributor to **[AgentsView](https://github.com/kenn-io/agentsview)** — AI 코딩 에이전트 로컬 분석 도구
-- 세션이 자정 경계에서 잘못된 날짜로 저장되던 버그 수정 — 타임존 처리 로직을 바로잡아 세션 유실 방지 ([#1194](https://github.com/kenn-io/agentsview/pull/1194), merged)
-- 프론트엔드 테스트가 실행 환경 로케일에 따라 깨지던 문제 해결 ([#1196](https://github.com/kenn-io/agentsview/pull/1196), merged)
-
 ## 📊 GitHub Stats
 
 <div align="center">
