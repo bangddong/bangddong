@@ -23,11 +23,11 @@ AI 에이전트 Harness를 탐구하는 백엔드 개발자 **방동현**입니�
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [계획은 미리 존재하지 않는다. Planning, 에이전트가 목표에서 경로를 만들어 내는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/planning/) <!-- Tue Aug 18 2026 12:00 AM -->
+<!-- BLOG-POST-LIST:START -->- [분업의 성패는 통신이 가른다. Multi-Agent Collaboration, 하나의 목표를 여러 에이전트에 나눠 맡기는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/multi-agent-collaboration/) <!-- Wed Sep 02 2026 12:00 AM -->
+- [계획은 미리 존재하지 않는다. Planning, 에이전트가 목표에서 경로를 만들어 내는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/planning/) <!-- Tue Aug 18 2026 12:00 AM -->
 - [모델은 실행하지 않는다. Tool Use, 에이전트가 바깥 세계에 손을 뻗는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/tool-use/) <!-- Wed Aug 05 2026 12:00 AM -->
 - [첫 출력은 초안이다. Reflection, 에이전트가 자기 답을 다시 쓰게 만드는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/reflection/) <!-- Mon Jul 27 2026 12:00 AM -->
 - [세션이 조용히 사라졌다 — 날짜 버그 하나로 시작된 첫 오픈소스 기여](https://dhbang.co.kr/posts/study/first-open-source-contribution/) <!-- Tue Jul 21 2026 12:00 AM -->
-- [기다림은 합산된다 — Parallelization, 독립 작업을 동시에 달리게 하는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/parallelization/) <!-- Mon Jul 20 2026 12:00 AM -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [dhbang.co.kr](https://dhbang.co.kr) 에서 더 보기
