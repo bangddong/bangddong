@@ -19,11 +19,11 @@
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [배움은 채점에서 시작한다. Learning and Adaptation, 에이전트가 경험으로 자기를 고치는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/learning-and-adaptation/) <!-- Wed Oct 14 2026 12:00 AM -->
+<!-- BLOG-POST-LIST:START -->- [네트워크는 공짜지만 나가는 길은 공짜가 아니다. EKS 실습기 ④, VPC와 서브넷을 코드로 만드는 법](https://dhbang.co.kr/posts/study/aws-eks/network/) <!-- Fri Nov 06 2026 12:00 AM -->
+- [배움은 채점에서 시작한다. Learning and Adaptation, 에이전트가 경험으로 자기를 고치는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/learning-and-adaptation/) <!-- Wed Oct 14 2026 12:00 AM -->
 - [계정을 만드는 첫날에 크레딧을 전부 잃을 수 있다. EKS 실습기 ②, 준비물 설치와 AWS 계정](https://dhbang.co.kr/posts/study/aws-eks/setup/) <!-- Tue Oct 06 2026 12:00 AM -->
 - [켜져 있는 알림이 울리지 않을 수 있다. EKS 실습기 ③, 비용 가드레일을 코드로 만드는 법](https://dhbang.co.kr/posts/study/aws-eks/guardrails/) <!-- Tue Oct 06 2026 12:00 AM -->
 - [노드를 줄여도 청구서는 줄지 않는다. EKS 실습기 ①, $200으로 쿠버네티스를 배우는 법](https://dhbang.co.kr/posts/study/aws-eks/what-and-why/) <!-- Wed Sep 30 2026 12:00 AM -->
-- [긴 컨텍스트는 기억이 아니다. Memory Management, 세션이 끝나도 남을 것을 정하는 법](https://dhbang.co.kr/posts/study/agentic-design-patterns/memory-management/) <!-- Thu Sep 10 2026 12:00 AM -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [dhbang.co.kr](https://dhbang.co.kr) 에서 더 보기
