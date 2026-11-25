@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=gusehdqkd)](https://solved.ac/profile/gusehdqkd)
+[![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=bangddong)](https://solved.ac/profile/bangddong)
 
 </div>
 
